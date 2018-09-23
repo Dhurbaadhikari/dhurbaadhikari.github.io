@@ -1,0 +1,24 @@
+html{
+    background-color: aqua;
+}
+
+
+
+p {
+    color: navy;
+    font-size: 20px;
+    text-align: center;
+}
+h1{
+    text-decoration: underline;
+    font-style: italic;
+    color: blue;
+    text-align:center;
+}
+img{
+    width:600px;
+     height:400px;
+     display:block;
+     margin:0 auto;
+}
+footer{float: right; }
